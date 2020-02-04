@@ -3,7 +3,7 @@ sudo /opt/lampp/lampp start
 
 ## add hosts
 mkdir /opt/lampp/htdocs/kornilov.ru
-sudo nano /opt/lampp/etc/extra/httpd-vhosts.cont
+sudo nano /opt/lampp/etc/extra/httpd-vhosts.conf
 
 example:
 <VirtualHost *:80>
